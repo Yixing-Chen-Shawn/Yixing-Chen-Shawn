@@ -1,5 +1,5 @@
 ### Hi there, I am Yixing 👋
-[![ShawnChan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ShawnChan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![YixingChen's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YixingChen&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 <!--
 **Yixing-Chen-Shawn/Yixing-Chen-Shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
