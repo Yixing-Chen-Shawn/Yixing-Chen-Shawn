@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawnchenac@gmail.com)
 
 #### -I am currently working as a GPU compiler engineer
+#### -I am recently writing a C interpreter which is bootstrapping (that interprets itself) as my side project
 #### -My interests lie primarily in computer architecture, compilers and computer graphics
 #### -In my spare time, I love reading books (mostly in my interests above) and solving math-related puzzles like programming problems on leetcode (my contest rating is sitting around 1800, hope I can reach 2023 at the end of the year), codeforces etc.
 #### -The stats on leetcode below is nothing, but to make me feel psyched about leetcoding every day I see it. Puzzles are fun, the more you do the more it becomes like gaming!
