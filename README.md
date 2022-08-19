@@ -9,7 +9,7 @@
 #### -In my spare time, I love reading books (mostly in my interests above) and solving math-related puzzles like programming problems on leetcode (my contest rating is sitting around 1800, hope I can reach 2023 at the end of the year), codeforces etc.
 #### -The stats on leetcode below is nothing, but to make me feel psyched about leetcoding every day I see it. Puzzles are fun, the more you do the more it becomes like gaming!
 
-![YixingChen's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YixingChen&theme=Raspberry)
+![YixingChen's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YixingChen&theme=Dark)
 
 <!--
 **Yixing-Chen-Shawn/Yixing-Chen-Shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
